@@ -1,0 +1,63 @@
+1. African Forest : GSAP Animation Website : Completed ✅
+
+2. Amazon : Amazon Website Clone : Completed ✅
+
+3. Auxes : IT Company Website (Freelanching Project) : Completed ✅
+
+4. Bubble Game : Game Website : Completed ✅
+
+5. Bulb : Basic Bulb : Completed ✅
+
+6. Champhunt : Sports Website : InComplete ❎
+
+7. Coffetto : Coffee Website : Completed ✅
+
+8. Croing : It Services Website :  Completed ✅
+
+9. Crystalo : Interior Design Website : Completed ✅
+
+10. Dribble : Dribble Website Clone : Completed ✅
+
+11. Finexo : Crypto Website : Completed ✅
+
+12. Glass Morphism : Animation Website : Completed ✅
+
+13. iPod : iPod Website Clone : Completed ✅
+
+14. Joke Website : Joke Generating Website with API : Completed ✅
+
+15. Keto : Hotel Website : Completed ✅
+
+16. KiaSai Interiors : Interior Design Website : Completed ✅
+
+17. Marvel's Multiverse Central : Marvel Comic Website : Completed ✅
+
+18. Moon Light : Scrolling Animation Website : Completed ✅
+
+19. Movie Matchup : Streamting Website Design : Completed ✅
+
+20. Musico : Music Website Design : Completed ✅
+
+21. Netflix : Netflix Website Clone : Completed ✅
+
+22. PayTM : PayTM Website Clone : Completed ✅
+
+23. PestHub : Pets Website Design : Completed ✅
+
+24. Pointer : Pointer Website Clone : Completed ✅
+
+25. Portfolio Websites : Personal Portfolio Website : Completed ✅
+
+26. Prince of Deals : E-Commerce Website : Completed ✅
+
+27. Rayban : Animation Website : Completed ✅
+
+28. Relume Timeline Cloneable : Static Website Design : Completed ✅
+
+29. Starbucks : Starbucks Website Clone : InComplete ❎
+
+30. Sundown Studio : Animated Website : Completed ✅
+
+31. WordPress : WordPress Clone : Completed ✅
+
+32. World View Express : News Website : Completed ✅
